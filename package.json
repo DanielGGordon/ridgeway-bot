@@ -1,0 +1,10 @@
+{
+  "name": "ridgeway-bot",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Drives the 7321ridgeway.com member portal (parking block reports) through Playwright",
+  "bin": { "ridgeway": "bin/ridgeway.mjs" },
+  "scripts": { "test": "node --test test/*.test.mjs" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "playwright": "1.61.1" }
+}
