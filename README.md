@@ -45,4 +45,4 @@ lock file keeps runs from overlapping. If the session ever dies, commands return
 
 `npm test` covers the matching and parsing logic; it does not touch the site.
 
-Not affiliated with 7321 Ridgeway or its operators.
+MIT licensed. Not affiliated with 7321 Ridgeway or its operators.
